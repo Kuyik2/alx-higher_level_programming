@@ -27,7 +27,7 @@ It contains **Python** and some **C** source codes as a solution to ALX Projects
 │   ├── 9-easter_egg.py
 │   ├── lists.h
 │   ├── README.md
-│   └── test.py
+│
 ├── 0x01-python-if_else_loops_functions
 │   ├── 0-positive_or_negative.py
 │   ├── 100-print_tebahpla.py
@@ -98,12 +98,8 @@ It contains **Python** and some **C** source codes as a solution to ALX Projects
 │   ├── 8-simple_delete.py
 │   ├── 9-multiply_by_2.py
 │   └── README.md
-├── docparts
-│   ├── 01-main.txt
-│   └── 02-directories.txt
 ├── LICENSE
 ├── README.md
-└── scripts
-    └── makemd.sh
 
-7 directories, 88 files
+
+6 directories, 82 files
