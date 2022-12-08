@@ -1,5 +1,3 @@
-# # ALX High Level Programming
-
 # Python Programming Language
 
 **This Repository is for ALX software engineering course - Python Programming.**
