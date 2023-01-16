@@ -1,13 +1,5 @@
 #!/usr/bin/python3
-<<<<<<< HEAD
 """Module that defines a square object"""
-=======
-"""Module square.
-Create a Square class, inheriting from Rectangle.
-"""
-
-from models.square import square
->>>>>>> ca1e39786d9a8ad1651e9afa22598173fe99371c
 from models.rectangle import Rectangle
 
 
