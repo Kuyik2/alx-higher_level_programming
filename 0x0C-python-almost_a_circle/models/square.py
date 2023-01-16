@@ -3,7 +3,7 @@
 Create a Square class, inheriting from Rectangle.
 """
 
-from models.base import Base
+from models.square import square
 from models.rectangle import Rectangle
 
 
