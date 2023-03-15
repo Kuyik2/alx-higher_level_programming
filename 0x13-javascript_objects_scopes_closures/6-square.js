@@ -2,18 +2,18 @@
 const BaseSqaure = require('./5-square');
 
 class Square extends BaseSqaure {
-    charPrint (c) {
-	if (!c) {
+  charPrint (c) {
+    if (!c) {
 	    this.print();
 	    return;
-	}
-	for (let i = 0; i < this.height; i++) {
+    }
+    for (let i = 0; i < this.height; i++) {
 	    for (let j = 0; j < this.width; j++) {
-		process.stdout.write(c);
+        process.stdout.write(c);
 	    }
 	    console.log('');
-	}
     }
+  }
 }
 
 module.exports = Square;
